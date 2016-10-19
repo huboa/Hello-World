@@ -133,7 +133,7 @@
 	[标签]:"www.huboa.com"
 
 [sudo的博客][标签]  
-[标签]:"http://www.huboa.com"
+[标签]:"www.huboa.com"
 
 
 ###水平分割线[编辑]
